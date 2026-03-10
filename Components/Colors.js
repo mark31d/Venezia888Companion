@@ -1,0 +1,25 @@
+const Colors = {
+  BG_DARK: '#030d06',
+  BG_MEDIUM: '#0a1f10',
+  BG_CARD: '#112918',
+  BG_CARD2: '#1a3a24',
+  ACCENT: '#1e5c35',
+  ACCENT2: '#2d7a4a',
+  GOLD: '#c9a84c',
+  GOLD_LIGHT: '#e8d5a3',
+  GOLD_DIM: '#a07c30',
+  TEXT: '#f0ede0',
+  TEXT_DIM: '#b0c4b8',
+  BORDER: '#2a5c3a',
+  BORDER2: '#3d7a50',
+  TAB_BG: '#0a1f10',
+  TAB_ACTIVE: '#c9a84c',
+  TAB_INACTIVE: '#3d6b4a',
+  WHITE: '#ffffff',
+  BLACK: '#000000',
+  GREEN_LIGHT: '#4caf7d',
+  CORRECT: '#2e7d32',
+  WRONG: '#4a1a1a',
+};
+
+export default Colors;
